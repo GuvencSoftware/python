@@ -1,0 +1,2 @@
+# python
+Little Opencv project
